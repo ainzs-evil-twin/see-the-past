@@ -13,7 +13,7 @@ def xored_list(str1, str2):
 	return [ord(a) ^ ord(b) for a,b in zip(str1, str2)]
 
 plaintext = input("String to be encrypted: ")
-key = 'dQw4w9WgXcQ'
+key = <Redacted to make it impossible to break>
 
 sixth_shift = caesar(plaintext, 6)
 xored = xored_list(sixth_shift, key*3)
