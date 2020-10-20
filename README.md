@@ -17,4 +17,7 @@ Reversing, OSINT
 
 ## Hints
 
->! Hint 1 : What is git used for?
+<details> 
+    <summary>Hint 1</summary> 
+    What is git used for?
+</details>
