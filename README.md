@@ -14,3 +14,7 @@ We managed to track down the source of a challenge on evil twin's GitHub repo. C
 ## Category
 
 Reversing, OSINT
+
+## Hints
+
+>! Hint 1 : What is git used for?
